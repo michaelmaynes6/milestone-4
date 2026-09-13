@@ -18,13 +18,20 @@
     "href": "index.html",
     "title": "Physical Look-Alikes Across MLB Teams",
     "section": "",
-    "text": "In baseball, physical traits such as height and weight often cluster around position requirements. Here, we define “look-alikes” as teammates who share identical height (in inches) and weight (in pounds).\nWe then examine how many MLB teams have the exact same number of physically similar players.\n\n\n\n\n\n\n\n\n\nThe distribution shows that 6 teams share the exact same count of 10 matching players (Atlanta Braves, Kansas City Royals, Los Angeles Dodgers, New York Yankees, Oakland Athletics, and Tampa Bay Rays), while 4 teams each have 6 matching players."
+    "text": "To examine physical traits across baseball history, we look at the relationship between height and weight for every unique player in Major League Baseball history (over 20,000 players)."
+  },
+  {
+    "objectID": "index.html#height-vs.-weight-across-mlb-history",
+    "href": "index.html#height-vs.-weight-across-mlb-history",
+    "title": "Physical Look-Alikes Across MLB Teams",
+    "section": "",
+    "text": "To examine physical traits across baseball history, we look at the relationship between height and weight for every unique player in Major League Baseball history (over 20,000 players)."
   },
   {
     "objectID": "index.html#how-many-teams-share-the-same-number-of-similar-players",
     "href": "index.html#how-many-teams-share-the-same-number-of-similar-players",
     "title": "Physical Look-Alikes Across MLB Teams",
-    "section": "",
-    "text": "In baseball, physical traits such as height and weight often cluster around position requirements. Here, we define “look-alikes” as teammates who share identical height (in inches) and weight (in pounds).\nWe then examine how many MLB teams have the exact same number of physically similar players.\n\n\n\n\n\n\n\n\n\nThe distribution shows that 6 teams share the exact same count of 10 matching players (Atlanta Braves, Kansas City Royals, Los Angeles Dodgers, New York Yankees, Oakland Athletics, and Tampa Bay Rays), while 4 teams each have 6 matching players."
+    "section": "How Many Teams Share the Same Number of Similar Players?",
+    "text": "How Many Teams Share the Same Number of Similar Players?\nIn baseball, physical traits such as height and weight often cluster around position requirements. Here, we define “look-alikes” as teammates who share identical height (in inches) and weight (in pounds).\nWe then examine how many MLB teams have the exact same number of physically similar players.\n\n\n\n\n\n\n\n\n\nThe distribution shows that 6 teams share the exact same count of 10 matching players (Atlanta Braves, Kansas City Royals, Los Angeles Dodgers, New York Yankees, Oakland Athletics, and Tampa Bay Rays), while 4 teams each have 6 matching players."
   }
 ]
